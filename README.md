@@ -18,7 +18,7 @@
 
 Movie object format:
 
-```
+```cd cli 
 {
   id: 5,
   title: 'Tombstone',
